@@ -1,12 +1,12 @@
 [app]
-title = FM 27
+title = FM27(26.10.2026)
 package.name = fm2726102026
 package.domain = org.hobi
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json,txt,ttf
 version = 1.0
-requirements = python3,kivy
-orientation = portrait
+requirements = python3
+orientation = landscape
 fullscreen = 0
 icon.filename = %(source.dir)s/icon.png
 presplash.filename = %(source.dir)s/presplash.png
